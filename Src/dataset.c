@@ -22,7 +22,7 @@
 #include "geneobject.h"
 #include "regression.h"
 
-#define MAX_MARKERNAME_SIZE   256
+#define MAX_MARKERNAME_SIZE   512
 #define MAX_GENONAME_SIZE     256
 #define MAX_CHROMOSOMES       100
 #define MAX_MARKERS        100000

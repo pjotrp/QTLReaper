@@ -8,7 +8,7 @@ module1 = Extension('reaper',
                                "Src/qtlobject.c", "Src/regression.c"] )
 
 setup(name='qtlreaper-gn2',
-      version='1.1',
+      version='1.11',
       author = "The GeneNetwork Team",
       author_email='pjotr.guix@thebird.nl',
       url = "https://github.com/genenetwork/",
